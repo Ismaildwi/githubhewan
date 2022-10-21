@@ -1,0 +1,5 @@
+zebra
+kuda
+kucing
+kelinci
+gajah
